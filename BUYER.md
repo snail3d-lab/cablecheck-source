@@ -1,8 +1,7 @@
 # Buyer notes — CableCheck
 
-Thanks! Your purchase = access to this repository (automatic GitHub invite
-from Polar — check your email; if the invite never lands, reply with your
-GitHub username to snailmail3d@gmail.com).
+Email your GitHub username to snailmail3d@gmail.com and you'll be added to this
+repository, usually within a day.
 
 ## Start here
 
